@@ -1,4 +1,3 @@
-
 # sum of two numbers 
 num1 = 10
 num2 = 20
